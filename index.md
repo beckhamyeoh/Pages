@@ -10,7 +10,7 @@
 cout << "Hello World!";
 ```
 
-[This is my github page. Not very useful.](https://github.com/beckhamyeoh)
+[This is my github page.](https://github.com/beckhamyeoh)
 
 This is a list of my favorite fruits in no particular order:
 - mango
