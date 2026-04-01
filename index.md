@@ -14,4 +14,22 @@ cout << "Hello World!";
 This is my github page. not very useful.
 [(https://github.com/beckhamyeoh)]
 
-See the cat again: [cat](#i-like-cats)
+[See the cat again](#i-like-cats)
+
+This is a list of my favorite fruits in no particular order:
+- mango
+* durian
++ strawberry
+
+This is a list of my favorite fruits in order:
+1. durian
+2. mango
+3. strawberry
+
+Things I should do today:
+- [x] Wake up
+- [x] Code
+- [ ] Have lunch
+- [ ] Attend lecture
+- [ ] Have dinner
+- [ ] \(Optional) Sleep
